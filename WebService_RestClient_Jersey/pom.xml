@@ -32,13 +32,7 @@
     <groupId>com.sun.jersey</groupId>
     <artifactId>jersey-json</artifactId>
     <version>1.19</version>
-</dependency>
-<dependency>   
-   <groupId>com.thoughtworks.xstream</groupId>   
-   <artifactId>xstream</artifactId>   
-   <version>1.4.5</version>   
-</dependency> 
-    
+</dependency>    
     <dependency>
     <groupId>org.codehaus.jackson</groupId>
     <artifactId>jackson-mapper-asl</artifactId>
